@@ -1,0 +1,4 @@
+Method,Category correct,Urgency correct,Can flag for human review,Handles two issues
+Gemini (improved prompt),3/6,6/6,Yes,Yes
+Keyword rules,4/6,4/6,No,No
+Zero-shot (deberta-v3-base-zeroshot-v2.0),3/6,2/6,No,No

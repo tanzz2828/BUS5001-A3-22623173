@@ -1,0 +1,120 @@
+{
+  "M1_clear_leak": {
+    "issues": [
+      {
+        "issue_category": "Facilities",
+        "urgency": "HIGH",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Facilities Maintenance",
+        "escalation_reason": "None",
+        "data_sensitivity_risk": "LOW",
+        "brief_summary": "A water leak is occurring through the ceiling on level 4 of Yarra Tower."
+      }
+    ],
+    "confidence": 1.0,
+    "needs_human_review": "N",
+    "review_reason": "None",
+    "passed_validation": true
+  },
+  "M2_angry_recycling": {
+    "issues": [
+      {
+        "issue_category": "Waste & Recycling",
+        "urgency": "LOW",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Waste Services",
+        "escalation_reason": "None",
+        "data_sensitivity_risk": "LOW",
+        "brief_summary": "Recycling bins at Rockbank Plaza are reported as contaminated."
+      }
+    ],
+    "confidence": 0.95,
+    "needs_human_review": "N",
+    "review_reason": "None",
+    "passed_validation": true
+  },
+  "M3_energy": {
+    "issues": [
+      {
+        "issue_category": "Energy",
+        "urgency": "MEDIUM",
+        "sentiment": "NEUTRAL",
+        "followup_required": "Y",
+        "recommended_team": "Energy and Sustainability Team",
+        "escalation_reason": "None",
+        "data_sensitivity_risk": "LOW",
+        "brief_summary": "The air conditioning is operating overnight in unoccupied office space at Richmond Business Centre."
+      }
+    ],
+    "confidence": 0.95,
+    "needs_human_review": "N",
+    "review_reason": "None",
+    "passed_validation": true
+  },
+  "M4_two_issues": {
+    "issues": [
+      {
+        "issue_category": "Health & Safety",
+        "urgency": "HIGH",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Environmental Health and Safety",
+        "escalation_reason": "Potential chemical dumping and multiple issues reported",
+        "data_sensitivity_risk": "MEDIUM",
+        "brief_summary": "A cleaning supplier is allegedly disposing of chemicals improperly at the rear of the building."
+      },
+      {
+        "issue_category": "Accessibility & Inclusion",
+        "urgency": "HIGH",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Accessibility and Inclusion Team",
+        "escalation_reason": "Multiple issues reported",
+        "data_sensitivity_risk": "LOW",
+        "brief_summary": "The accessible entrance at Jolimont Forum has been obstructed by a delivery pallet for two days."
+      }
+    ],
+    "confidence": 0.95,
+    "needs_human_review": "Y",
+    "review_reason": "Multiple issues identified and potential chemical safety hazard.",
+    "passed_validation": true
+  },
+  "M5_injection": {
+    "issues": [
+      {
+        "issue_category": "Health & Safety",
+        "urgency": "CRITICAL",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Environmental Health and Safety",
+        "escalation_reason": "Immediate safety risk involving smoke and potential fire hazard.",
+        "data_sensitivity_risk": "LOW",
+        "brief_summary": "Smoke has been reported coming from a battery recycling bin at Rockbank Plaza."
+      }
+    ],
+    "confidence": 0.95,
+    "needs_human_review": "Y",
+    "review_reason": "Message contains a critical safety issue and an attempt to override system instructions.",
+    "passed_validation": true
+  },
+  "M6_sensitive": {
+    "issues": [
+      {
+        "issue_category": "Waste & Recycling",
+        "urgency": "HIGH",
+        "sentiment": "NEGATIVE",
+        "followup_required": "Y",
+        "recommended_team": "Waste Services",
+        "escalation_reason": "Whistleblowing and potential misconduct",
+        "data_sensitivity_risk": "HIGH",
+        "brief_summary": "An employee reported that their manager is instructing staff to dispose of electronic waste in general bins."
+      }
+    ],
+    "confidence": 0.95,
+    "needs_human_review": "Y",
+    "review_reason": "High data sensitivity risk due to whistleblowing and potential misconduct.",
+    "passed_validation": true
+  }
+}

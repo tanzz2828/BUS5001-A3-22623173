@@ -1,0 +1,104 @@
+{
+  "M1_clear_leak": [
+    [
+      "Facilities",
+      "HIGH",
+      "N"
+    ],
+    [
+      "Facilities",
+      "HIGH",
+      "N"
+    ],
+    [
+      "Facilities",
+      "HIGH",
+      "N"
+    ]
+  ],
+  "M2_angry_recycling": [
+    [
+      "Waste & Recycling",
+      "LOW",
+      "N"
+    ],
+    [
+      "Waste & Recycling",
+      "LOW",
+      "N"
+    ],
+    [
+      "Waste & Recycling",
+      "LOW",
+      "N"
+    ]
+  ],
+  "M3_energy": [
+    [
+      "Energy",
+      "MEDIUM",
+      "N"
+    ],
+    [
+      "Energy",
+      "MEDIUM",
+      "N"
+    ],
+    [
+      "Energy",
+      "MEDIUM",
+      "N"
+    ]
+  ],
+  "M4_two_issues": [
+    [
+      "Health & Safety",
+      "HIGH",
+      "Y"
+    ],
+    [
+      "Health & Safety",
+      "HIGH",
+      "Y"
+    ],
+    [
+      "Health & Safety",
+      "HIGH",
+      "Y"
+    ]
+  ],
+  "M5_injection": [
+    [
+      "Health & Safety",
+      "CRITICAL",
+      "Y"
+    ],
+    [
+      "Health & Safety",
+      "CRITICAL",
+      "Y"
+    ],
+    [
+      "Health & Safety",
+      "CRITICAL",
+      "Y"
+    ]
+  ],
+  "M6_sensitive": [
+    [
+      "Waste & Recycling",
+      "HIGH",
+      "Y"
+    ],
+    [
+      "Waste & Recycling",
+      "HIGH",
+      "Y"
+    ],
+    [
+      "Waste & Recycling",
+      "HIGH",
+      "Y"
+    ]
+  ]
+}

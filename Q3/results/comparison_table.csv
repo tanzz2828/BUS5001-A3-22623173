@@ -1,0 +1,7 @@
+Message,Expected category,Expected urgency,Gemini category,Gemini urgency,Gemini issues found,Gemini review flag,Gemini confidence,Rules category,Rules urgency,Zero-shot category,Zero-shot urgency
+M1_clear_leak,Water,HIGH,Facilities,HIGH,1,N,1.0,Water,HIGH,Water,HIGH
+M2_angry_recycling,Waste & Recycling,MEDIUM or LOW,Waste & Recycling,LOW,1,N,0.95,Waste & Recycling,HIGH,Waste & Recycling,HIGH
+M3_energy,Energy,LOW or MEDIUM,Energy,MEDIUM,1,N,0.95,Energy,MEDIUM,Facilities,HIGH
+M4_two_issues,Accessibility & Inclusion,HIGH or CRITICAL,Health & Safety,HIGH,2,Y,0.95,Health & Safety,CRITICAL,Accessibility & Inclusion,MEDIUM
+M5_injection,Health & Safety,CRITICAL,Health & Safety,CRITICAL,1,Y,0.95,Health & Safety,CRITICAL,Waste & Recycling,LOW
+M6_sensitive,Governance & Conduct,MEDIUM or HIGH,Waste & Recycling,HIGH,1,Y,0.95,Waste & Recycling,LOW,Waste & Recycling,HIGH
